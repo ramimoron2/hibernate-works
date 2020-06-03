@@ -1,0 +1,2 @@
+# hibernate-works
+useless project
